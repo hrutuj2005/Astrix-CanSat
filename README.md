@@ -127,7 +127,10 @@ Project images, testing visuals, and competition photos will be added in the `im
 Team Astrix
 
 - Hrutuj Dudhabale
-- Team Members
+- Atharva Dhawale
+- Likhit Borole
+- Sushant Dhonde
+- Nikhil Gosavi
 
 ---
 
