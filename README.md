@@ -1,4 +1,18 @@
-# 🚀 Astrix CanSat    ![Astrix CanSat](images/logo/Astrix_Logo.jpg)
+<div align="center">
+
+<img src="images/logo/Astrix_Logo.jpg" width="120">
+
+# 🚀 Astrix CanSat
+
+An award-winning autonomous CanSat developed for aerospace mission simulation, real-time telemetry transmission, environmental sensing, and ground station visualization.
+
+![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%20Pico-red)
+![Communication](https://img.shields.io/badge/Communication-Zigbee-blue)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-green)
+![Telemetry](https://img.shields.io/badge/Telemetry-1Hz-orange)
+![Mission](https://img.shields.io/badge/Mission-CanSat-purple)
+
+</div>
 
 An award-winning autonomous CanSat developed for aerospace mission simulation, real-time telemetry transmission, environmental sensing, and ground station visualization.
 
