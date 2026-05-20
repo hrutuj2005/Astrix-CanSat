@@ -1,5 +1,5 @@
 # 🚀 Astrix CanSat
-![Astrix CanSat](images/logo/Astrix Logo.jpg)
+![Astrix CanSat](images/logo/Astrix_Logo.jpg)
 An award-winning autonomous CanSat developed for aerospace mission simulation, real-time telemetry transmission, environmental sensing, and ground station visualization.
 
 ---
