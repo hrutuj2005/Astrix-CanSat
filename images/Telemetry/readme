@@ -1,1 +1,43 @@
 
+# Telemetry Dashboard Screenshots
+
+This folder contains screenshots of the CanSat Ground Control Dashboard developed in LabVIEW NXG. These images demonstrate the user interface, telemetry logging, and block diagram used for real-time mission monitoring.
+
+## Contents
+
+### 1. Dashboard View
+Shows the main Ground Control Station interface displaying:
+- Live sensor graphs
+- Mission status
+- Battery percentage
+- GPS coordinates
+- IMU data
+- Camera status
+- Mission control panel
+
+![Dashboard](Dashboard%20View.png)
+
+---
+
+### 2. Telemetry CSV Log
+Displays the CSV file generated during the mission. All incoming telemetry packets are automatically logged for post-flight analysis.
+
+Logged parameters include:
+- Temperature
+- Pressure
+- Humidity
+- GPS Coordinates
+- Altitude
+- Battery Percentage
+- IMU Data
+- Camera Status
+- Mission Status
+
+![Telemetry CSV](csv.png)
+
+---
+
+### 3. LabVIEW NXG Block Diagram
+Shows the internal implementation of the Ground Control Dashboard, including serial communication, telemetry parsing, real-time visualization, and CSV data logging.
+
+![Block Diagram](Panel%20View.png)
