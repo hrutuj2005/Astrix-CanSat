@@ -1,1 +1,29 @@
+📡 Telemetry
 
+The CanSat Ground Control Dashboard receives real-time telemetry data from the CanSat via serial communication and displays mission parameters through an interactive LabVIEW NXG interface. All incoming telemetry packets are simultaneously logged into a CSV file for post-flight analysis.
+
+Telemetry Parameters
+Parameter	Description
+CanSat ID	Unique identifier of the CanSat
+Mission Time	Elapsed mission time
+Packet Number	Sequential telemetry packet number
+Temperature	Ambient temperature (°C)
+Pressure	Atmospheric pressure (Pa)
+Humidity	Relative humidity (%)
+Satellite Count	Number of GPS satellites connected
+Timestamp	Time of telemetry reception
+Latitude	GPS latitude
+Longitude	GPS longitude
+Altitude	Altitude above sea level (m)
+Battery Percentage	Remaining battery level (%)
+Gyro X, Y, Z	Angular velocity from the IMU
+Accel X, Y, Z	Linear acceleration from the IMU
+Pitch	Pitch angle (°)
+Roll	Roll angle (°)
+Yaw	Yaw angle (°)
+RSSI	Wireless signal strength
+Camera Status	Camera ON/OFF status
+Status Flag	Current mission phase (BOOT, ASCENT, DESCENT, LANDING)
+Data Logging
+
+Every telemetry packet is automatically saved in CSV format, enabling detailed post-flight analysis using software such as Microsoft Excel, MATLAB, or Python. The logged data includes environmental conditions, GPS coordinates, orientation, battery status, mission state, and communication information.
